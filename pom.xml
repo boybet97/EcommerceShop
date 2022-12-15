@@ -77,7 +77,7 @@
 
     </dependencies>
     <properties>
-        <spring.version>5.1.4.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <servlet.version>4.0.1</servlet.version>
         <jsp.version>2.3.1</jsp.version>
         <jstl.version>1.2</jstl.version>
